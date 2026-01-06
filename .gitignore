@@ -1,0 +1,60 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers de build et distribution
+build/
+dist/
+*.egg-info/
+
+# Logs et rapports temporaires
+logs/
+*.log
+reports/*.json
+reports/*.md
+
+# Fichiers temporaires de l'éditeur
+.vscode/
+.idea/
+*.swp
+*~
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+# --- Environnements Python ---
+venv/
+.venv/
+env/
+
+# --- Cache Python ---
+__pycache__/
+*.pyc
+
+# --- Secrets ---
+.env
+
+# --- Logs & résultats ---
+logs/
+reports/
+
+# --- Build / Packaging ---
+build/
+dist/
+*.spec
+
+# --- IDE ---
+.vscode/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Fichiers temporaires ---
+temp_*.txt
