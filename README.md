@@ -76,6 +76,7 @@ Créer un fichier .env à la racine du projet :
     # --- Outils externes ---
     THEHARVESTER_PATH=/home/user/theHarvester
   ```
+⚠️ # ---Assurer vous que le chemin de theharvester est bien conforme a celui de votre appareil ---
 
 ▶️ Lancement du projet
  ```bash
